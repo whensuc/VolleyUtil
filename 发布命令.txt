@@ -1,1 +1,0 @@
-emp install hexo-deployer-git --save
